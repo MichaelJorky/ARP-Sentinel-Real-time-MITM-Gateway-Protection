@@ -9,7 +9,7 @@ Aplikasi ini berfokus pada **defensive security**, bukan serangan balik, dengan 
 ## 🖥️ Tampilan Aplikasi
 
 <div align="center">
-  <img src="./assets/ARP Sentinel.png" alt="ARP Sentinel – Real-time MITM & Gateway Protection">
+  <img src="./assets/ARP Sentinel.PNG" alt="ARP Sentinel – Real-time MITM & Gateway Protection" width="470" height="310">
 </div>
 
 Antarmuka ARP Sentinel menampilkan informasi penting secara real-time, seperti:
